@@ -13,6 +13,7 @@
  - Download latest release
  - Paste downloaded folder in ``AzuriomInstallPath/Plugins``
  - Log into Admin panel, select Plugins and **Enable** MuOnline Plugin
+ - Open ``.env`` and set ``AZURIOM_GAME=muonline``
 
 
 ## Support
