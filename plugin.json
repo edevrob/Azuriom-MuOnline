@@ -1,0 +1,14 @@
+{
+    "id": "muonline",
+    "name": "MuOnline",
+    "description": "MuOnline game plugin for Azuriom",
+    "version": "0.1.0",
+    "url": "https://azuriom.com",
+    "authors": [
+        "edev"
+    ],
+    "providers": [
+        "\\Azuriom\\Plugin\\MuOnline\\Providers\\MuOnlineServiceProvider",
+        "\\Azuriom\\Plugin\\MuOnline\\Providers\\RouteServiceProvider"
+    ]
+}
